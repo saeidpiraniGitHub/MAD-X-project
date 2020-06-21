@@ -1,1 +1,4 @@
-# MAD-X-project
+Prepared code by Python uses MAD-X library to solve following orbit correction exercise
+
+Assume random misalignments of the quadrupoles of r.m.s. 0.1 mm in the horizontal and 0.2 mm in the vertical plane. Calculate the ex- pected r.m.s. orbit and verify with MAD (misalignments are established with the command EALIGN). Add the necessary equipment to be able to correct the closed orbit in both planes. Estimate first the maximum necessary strength of the orbit correctors assuming a maximum quadrupole displacement of 1 mm. Use MAD-X to correct the orbit in both planes. What is the effect of the correction on the dispersion?
+Now remove the correction and repeat the exercise by adding a skew quadrupole. Power the skew quadrupole until you start to see the coupling between the horizontal and vertical orbits. Perform again the MAD-X orbit correction and compare the results with the uncoupled case.
